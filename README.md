@@ -1,4 +1,4 @@
-##🌦️ Weather App
+## 🌦️ Weather App
 
 A simple and stylish Weather App that lets you search for current weather conditions in any city using the WeatherAPI. The app is built with HTML, CSS, and JavaScript. 🌍✨
 
